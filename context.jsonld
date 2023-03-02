@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "location_unavailable": "https://uri.salted-project.eu/properties/location_unavailable",
+        "faulty_data": "https://uri.salted-project.eu/properties/faulty_data",
+        "sameDevice": "https://uri.salted-project.eu/relationships/sameDevice",
+        "parallelTo": "https://uri.salted-project.eu/relationships/parallelTo",
+        "closeTo": "https://uri.salted-project.eu/relationships/closeTo",
+        "distance": "https://uri.salted-project.eu/properties/distance",
+        "perception": "https://uri.salted-project.eu/properties/perception",
+        "concentrationLevel": "https://uri.salted-project.eu/properties/concentrationLevel",
+
+        "isOutlier": "https://uri.salted-project.eu/properties/isOutlier",
+        "isSynthetic": "https://uri.salted-project.eu/properties/isSynthetic",
+        "methodology": "https://uri.salted-project.eu/properties/methodology"
+    }
+}
